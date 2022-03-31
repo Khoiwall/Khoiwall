@@ -37,5 +37,5 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <p>
   <a target="_blank" href="https://khoiwall.github.io/songeth"><img src="https://img.shields.io/badge/-WebsiteFrist-08c271?style=flat&logo=audacity&logoColor=white"/>   </a>
-  <a target="_blank" href="https://stun-store.vercel.app"><img src="https://img.shields.io/badge/-Stun-Store-111?style=flat&logo=itch.io&logoColor=white"/>
+  <a target="_blank" href="https://stun-store.vercel.app"><img src="https://img.shields.io/badge/-Stun--Store-111?style=flat&logo=itch.io&logoColor=white"/>
 </p>
