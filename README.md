@@ -36,14 +36,14 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ### Games Published
 
 <p>
-  <a target="_blank" href="https://khoiwall.github.io/songeth"><img src="https://img.shields.io/badge/-WebsiteFrist-08c271?style=flat&logo=audacity&logoColor=white"/>   </a>
-  <a target="_blank" href="https://stun-store.vercel.app"><img src="https://img.shields.io/badge/-Stun--Store-111?style=flat&logo=itch.io&logoColor=white"/>
+  <a target="_blank" href="https://khoiwall.github.io/songeth"><img src="https://img.shields.io/badge/-Website_Frist-08c271?style=flat&logo=audacity&logoColor=white"/>   </a>
+  <a target="_blank" href="https://stun-store.vercel.app"><img src="https://img.shields.io/badge/-Stun_Store-111?style=flat&logo=itch.io&logoColor=white"/>
 </p>
   
  ### Connect to Me
 
 <p>
-  <a target="_blank" href="https://www.linkedin.com/in/kh%C3%B4i-tr%C3%A2%CC%80n-581727203"><img src="https://img.shields.io/badge/-Tran--Dinh--Khoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/kh%C3%B4i-tr%C3%A2%CC%80n-581727203"><img src="https://img.shields.io/badge/-Tran_Dinh_Khoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a target="_blank" href="mailto:mailToWork1402@gmail.com"><img src="https://img.shields.io/badge/-mailToWork1402@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a target="_blank" href="https://www.facebook.com/KhoiFatU"><img src="https://img.shields.io/badge/-Tran--Dinh--Khoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+  <a target="_blank" href="https://www.facebook.com/KhoiFatU"><img src="https://img.shields.io/badge/-Tran_Dinh_Khoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
