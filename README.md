@@ -36,5 +36,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ### Games Published
 
 <p>
-  <a target="_blank" href="https://khoiwall.github.io/songeth/"><img src="https://img.shields.io/badge/-WebsiteFrist-08c271?style=flat&logo=audacity&logoColor=white"/></a>
+  <a target="_blank" href="https://khoiwall.github.io/songeth/"><img src="https://img.shields.io/badge/-WebsiteFrist-08c271?style=flat&logo=audacity&logoColor=white"/>   </a>
+  <a target="_blank" href="https://khoiwall.github.io/songeth/"><img src="https://img.shields.io/badge/-WebsiteFrist-000000?style=flat&logo=audacity&logoColor=white"/>
 </p>
