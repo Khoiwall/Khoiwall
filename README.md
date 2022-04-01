@@ -7,7 +7,7 @@
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoiwall&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoiwall&layout=compact) | ![Stats](https://github-readme-stats.vercel.app/api/?username=danhhuynh25029&count_private=false&show_icons=false&include_all_commits=true&&hide_border=true)
 
 
 [![-----------------------------------------------------](
