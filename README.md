@@ -47,6 +47,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/kh%C3%B4i-tr%C3%A2%CC%80n-581727203"><img src="https://img.shields.io/badge/-Tran_Dinh_Khoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a target="_blank" href="mailto:mailToWork1402@gmail.com"><img src="https://img.shields.io/badge/-mailToWork1402@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a target="_blank" href="mailto:khoi1402.IT@gmail.com"><img src="https://img.shields.io/badge/-khoi1402.IT@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a target="_blank" href="https://www.facebook.com/KhoiFatU"><img src="https://img.shields.io/badge/-Tran_Dinh_Khoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
