@@ -1,4 +1,5 @@
-###  Hi , I'm Tran Dinh Khoi - A Web Developer and Mobile Developer
+###  Software Engineer at Metastream Labs Inc
+## Metastream is a Streaming-focused Game NFT Marketplace. Combines the best of Game entertainment and Defi. No boundaries, no hassle, pure entertainment and enhanced gamer benefits.
 
 <img src="./ezgif.com-gif-maker (2).gif"/>
 
