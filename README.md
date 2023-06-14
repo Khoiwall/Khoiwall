@@ -7,7 +7,7 @@
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-###  I'm miner
+###  I'm miner (BTC, ETH) :>
 <img src="./ezgif.com-gif-maker (2).gif"/>
 
 [![-----------------------------------------------------](
