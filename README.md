@@ -8,7 +8,7 @@
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 ###  I'm miner
-<img src="./RollerGit.gif"/>
+<img src="./ezgif.com-gif-maker (2).gif"/>
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
