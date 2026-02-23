@@ -4,12 +4,6 @@
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-###  I'm miner (BTC, ETH) :>
-<img src="./ezgif.com-gif-maker (2).gif"/>
-
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
