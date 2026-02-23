@@ -1,8 +1,5 @@
 ###  Software Engineer at Metastream Labs Inc
-<p>Metastream is a Streaming-focused Game NFT Marketplace. Combines the best of Game entertainment and Defi. No boundaries, no hassle, pure entertainment and enhanced gamer benefits.</p>
-
-<img src="https://ucarecdn.com/4654249e-1305-410d-8dcb-70e33c16d234/-/preview/-/quality/smart/-/format/auto/"/>
-
+<p>Leveraged over 3 years of experience as a Full-Stack Software Engineer in startup environments and international teams to deliver scalable web applications.</p>
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
